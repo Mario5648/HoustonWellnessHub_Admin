@@ -12,13 +12,13 @@ var userLogingEndPoint = "http://127.0.0.1:5000/login";
 */
 
 
-var getResourceCategoriesEndPoint = "https://byteanalytica.com/getResourceCategories";
-var updateResourceCategoriesEndPoint = "https://byteanalytica.com/updateResourceCategories";
-var getResourceCategoryOptionsEndPoint = "https://byteanalytica.com/getResourceCategoryOptions";
-var updateResourceCategoriesOptionsEndPoint = "https://byteanalytica.com/updateResourceCategoryOptions";
-var getResourceInformationEndPoint = "https://byteanalytica.com/getResourceInformation";
-var updateResourceInformationEndPoint = "https://byteanalytica.com/updateResourceInformation"
-var userLogingEndPoint = "https://byteanalytica.com/login";
+var getResourceCategoriesEndPoint = "https://api-hwh.com/getResourceCategories";
+var updateResourceCategoriesEndPoint = "https://api-hwh.com/updateResourceCategories";
+var getResourceCategoryOptionsEndPoint = "https://api-hwh.com/getResourceCategoryOptions";
+var updateResourceCategoriesOptionsEndPoint = "https://api-hwh.com/updateResourceCategoryOptions";
+var getResourceInformationEndPoint = "https://api-hwh.com/getResourceInformation";
+var updateResourceInformationEndPoint = "https://api-hwh.com/updateResourceInformation"
+var userLogingEndPoint = "https://api-hwh.com/login";
 
 var ERROR_FLAG = "ERROR";
 
